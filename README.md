@@ -1,2 +1,0 @@
-# takeover
-SubDomain Takeover
